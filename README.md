@@ -19,7 +19,7 @@ Criar uma aplicação web utilizando **JavaScript puro (Vanilla JS)** para consu
 
 ---
 ## Critérios
-* [ ] Foi criado o campo de busca? (0,5)
+* [X] Foi criado o campo de busca? (0,5)
 * [ ] Os cards são criados dinamicamente? (1,5)
 * [ ] Os cards são criados dependendo da busca? (1,5)
 * [ ] Foi utilizado métodos para criar os novos elementos HTML? (1,5)
