@@ -54,7 +54,7 @@ A aplicação permite buscar personagens em uma API pública e exibir suas infor
 
 Confira a publicação sobre este projeto:
 
-👉 [COLE AQUI O LINK DO POST]
+👉 [https://www.linkedin.com/pulse/javascript-com-api-de-pok%25C3%25A9mon-arthur-laranjeira-zylae/]
 
 ---
 
