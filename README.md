@@ -44,6 +44,12 @@ A aplicação permite buscar personagens em uma API pública e exibir suas infor
 
 ---
 
+## API utilizada
+
+https://pokeapi.co/
+
+---
+
 ## 📸 Preview
 
 ![](./preview.png)
