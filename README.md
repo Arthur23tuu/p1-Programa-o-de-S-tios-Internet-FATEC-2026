@@ -64,3 +64,8 @@ Confira a publicação sobre este projeto:
 Prof. Fernando Leonid – 2026
 
 ---
+## Aluno
+
+**Arthur Camargo Laranjeira – 2026**
+
+---
